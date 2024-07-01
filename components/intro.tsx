@@ -73,7 +73,7 @@ export default function Intro() {
         </Link>
 
         <a
-          href={language === "es" ? "/es/CV - Amir Mahmood.pdf" : "/en/CV - Amir Mahmood.pdf"}
+           href={language === "es" ? "/es/Amir Mahmood-CV.pdf" : "/en/Amir Mahmood-CV.pdf"}
           download
           className="group bg-white px-7 py-3 flex items-center gap-2 rounded-full outline-none focus:scale-110 hover:scale-110 hover:z-10 transition active:scale-105 cursor-pointer borderBlack dark:bg-white/10 backdrop-blur-[0.5rem]"
         >
